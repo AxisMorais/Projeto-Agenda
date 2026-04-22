@@ -8,4 +8,5 @@ Para o funcionamento é necessário:
 - Compilador Java na versão 1.8.0_482;
 - JDK na versão 1.8.0_482;
 - Wild Fly na versão 15;
-- Hibernate na versão 5.2.17 (Versão compatível com os tópicos aci
+- Hibernate na versão 5.2.17 (Versão compatível com os tópicos acima)
+- Conexão com banco de dados e inserção e busca de dados;
